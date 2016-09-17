@@ -1,9 +1,0 @@
-{
-  "packageManager": "github",
-  "name": "saleslivechat",
-  "repo": "webartltd/saleslivechat",
-  "files": {
-    "basePath": "release/",
-    "include": ["**/*"]
-  }
-}
