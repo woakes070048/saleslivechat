@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- width="27.269px" height="27.269px"  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	  viewBox="0 0 27.269 27.269" enable-background="new 0 0 27.269 27.269" xml:space="preserve">
-<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#616261" stroke-width="1.1315" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.9256" d="
-	M13.635,0.566c7.218,0,13.068,5.851,13.068,13.068s-5.851,13.069-13.068,13.069c-7.217,0-13.069-5.851-13.069-13.069
-	S6.417,0.566,13.635,0.566L13.635,0.566z"/>
-<path fill="none" stroke="#616261" stroke-width="0.9901" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.9256" d="
-	M8.842,9.022c1.013,0,1.834,0.821,1.834,1.834S9.855,12.69,8.842,12.69c-1.013,0-1.833-0.821-1.833-1.833
-	c0-0.451,0.164-0.865,0.434-1.184 M18.428,9.022c1.013,0,1.834,0.821,1.834,1.834s-0.821,1.833-1.834,1.833
-	s-1.833-0.821-1.833-1.833c0-0.451,0.163-0.865,0.433-1.184"/>
-<line fill="none" stroke="#616261" stroke-width="1.1315" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.9256" x1="6.934" y1="18.561" x2="21.475" y2="18.561"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.269 27.269" enable-background="new 0 0 27.269 27.269"><path fill-rule="evenodd" clip-rule="evenodd" fill="#fff" stroke="#616261" stroke-width="1.131" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.926" d="M13.635.566c7.218 0 13.068 5.851 13.068 13.068s-5.851 13.069-13.068 13.069-13.069-5.851-13.069-13.069 5.851-13.068 13.069-13.068z"/><path stroke="#616261" stroke-width=".99" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.926" d="M8.842 9.022c1.013 0 1.834.821 1.834 1.834s-.821 1.834-1.834 1.834c-1.013 0-1.833-.821-1.833-1.833 0-.451.164-.865.434-1.184m10.985-.651c1.013 0 1.834.821 1.834 1.834s-.821 1.833-1.834 1.833-1.833-.821-1.833-1.833c0-.451.163-.865.433-1.184" fill="none"/><path stroke="#616261" stroke-width="1.131" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.926" fill="none" d="M6.934 18.561h14.541"/></svg>

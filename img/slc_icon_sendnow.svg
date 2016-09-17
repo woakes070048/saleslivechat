@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- width="24.691px" height="23.713px"  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	  viewBox="0 0 24.691 23.713" enable-background="new 0 0 24.691 23.713" xml:space="preserve">
-<g>
-	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#8F8D8F" points="12.359,9.512 10.071,20.397 0,23.713 12.326,0 
-		24.691,23.713 14.621,20.397 12.359,9.512 	"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.691 23.713" enable-background="new 0 0 24.691 23.713"><path fill-rule="evenodd" clip-rule="evenodd" fill="#8F8D8F" d="M12.359 9.512l-2.288 10.885-10.071 3.316 12.326-23.713 12.365 23.713-10.07-3.316-2.262-10.885z"/></svg>

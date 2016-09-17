@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- width="13.09px" height="17.938px"   -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 13.09 17.938" enable-background="new 0 0 13.09 17.938" xml:space="preserve">
-<g>
-	
-		<path fill="none" stroke="#B7B7B7" stroke-width="1.9385" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.9256" d="
-		M2.424,6.494V4.667c0.01-5.008,8.231-4.853,8.27,0v1.84"/>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="#B7B7B7" d="M5.01,9.233h3.07V9.178C8.08,8.7,8.471,8.31,8.947,8.31h3.275
-		c0.477,0,0.867,0.391,0.867,0.868v1.915v0.022v1.447c0.029,3.117-3.407,5.379-6.71,5.376c-3.225-0.003-6.346-2.3-6.38-5.376v-1.47
-		V9.233V9.178C0,8.7,0.391,8.31,0.868,8.31h3.275C4.62,8.31,5.01,8.7,5.01,9.178V9.233L5.01,9.233z"/>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M6.545,11.14c0.688,0,1.246,0.558,1.246,1.245
-		c0,0.521-0.32,0.968-0.775,1.153v2.201H6.075v-2.201c-0.455-0.186-0.775-0.632-0.775-1.153C5.299,11.697,5.857,11.14,6.545,11.14
-		L6.545,11.14z"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.09 17.938" enable-background="new 0 0 13.09 17.938"><path stroke="#B7B7B7" stroke-width="1.938" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.926" d="M2.424 6.494v-1.827c.01-5.008 8.231-4.853 8.27 0v1.84" fill="none"/><path fill-rule="evenodd" clip-rule="evenodd" fill="#B7B7B7" d="M5.01 9.233h3.07v-.055c0-.478.391-.868.867-.868h3.275c.477 0 .867.391.867.868v3.3840000000000003c.029 3.117-3.407 5.379-6.71 5.376-3.225-.003-6.346-2.3-6.38-5.376v-3.384c.001-.478.392-.868.869-.868h3.275c.477 0 .867.39.867.868v.055z"/><path fill-rule="evenodd" clip-rule="evenodd" fill="#fff" d="M6.545 11.14c.688 0 1.246.558 1.246 1.245 0 .521-.32.968-.775 1.153v2.201h-.941v-2.201c-.455-.186-.775-.632-.775-1.153-.001-.688.557-1.245 1.245-1.245z"/></svg>
