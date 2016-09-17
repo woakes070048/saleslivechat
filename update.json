@@ -1,0 +1,9 @@
+{
+  "packageManager": "github",
+  "name": "saleslivechat",
+  "repo": "webartltd/saleslivechat",
+  "files": {
+    "basePath": "release/",
+    "include": ["css/*.css", "js/*.js", "img/*.svg", "img/*.gif", "img/*.jpg", "img/*.png"]
+  }
+}
