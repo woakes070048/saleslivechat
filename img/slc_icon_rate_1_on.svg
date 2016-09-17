@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- width="27.269px" height="27.269px"  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	  viewBox="0 0 27.269 27.269" enable-background="new 0 0 27.269 27.269" xml:space="preserve">
+<radialGradient id="SVGID_1_" cx="13.6348" cy="13.6338" r="13.0688" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFF7F7"/>
+	<stop  offset="1" style="stop-color:#FDCBCB"/>
+</radialGradient>
+<path fill="url(#SVGID_1_)" stroke="#333333" stroke-width="1.1315" stroke-miterlimit="22.9256" d="M13.634,0.565
+	c7.218,0,13.069,5.852,13.069,13.069s-5.851,13.068-13.069,13.068S0.566,20.853,0.566,13.635S6.417,0.565,13.634,0.565L13.634,0.565
+	z"/>
+<path fill="none" stroke="#333333" stroke-width="1.1315" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.9256" d="
+	M7.296,20.76c0.106-3.409,2.903-6.14,6.338-6.14c3.435,0,6.232,2.73,6.338,6.14"/>
+<path fill="none" stroke="#333333" stroke-width="0.9901" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="22.9256" d="
+	M8.841,7.12c1.013,0,1.834,0.821,1.834,1.834s-0.821,1.833-1.834,1.833c-1.013,0-1.833-0.82-1.833-1.833
+	c0-0.451,0.163-0.865,0.433-1.185 M18.427,7.12c1.013,0,1.834,0.821,1.834,1.834s-0.821,1.833-1.834,1.833
+	c-1.013,0-1.833-0.82-1.833-1.833c0-0.451,0.163-0.865,0.433-1.185"/>
+</svg>
